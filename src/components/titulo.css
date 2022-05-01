@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    color: blue;
+  }
+
+
+.titulo {
+  border-radius: 5px;
+  box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
+  margin: 20px;
+  width: 600px;
+  left: 100px;
+  background-color: coral;
+  display: inline-block
+}
